@@ -236,7 +236,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:backgroundTint="@color/anarenk"
-        android:text="Watch The Match"
+        android:text="@string/button_names"
         android:textColor="@color/yazi3"
         android:textSize="28sp"
         app:layout_constraintBottom_toBottomOf="parent"
