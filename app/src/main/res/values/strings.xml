@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ApexFootball</string>
+    <string name="mac_baslik">UEFA EUROPA LEAGUE Play-Off - 1st Leg</string>
+    <string name="mac_manset">Lion Won First Round!</string>
+    <string name="button_stat">Stats</string>
+    <string name="button_detail">Detail</string>
+    <string name="button_summary">Summary</string>
+    <string name="button_line_ups">Line-Ups</string>
+    <string name="mac_sonucu">Galatasaray 3  –  2 Sparta Praha</string>
+    <string name="gs_gol1">Kerem Demirbay 19.Min </string>
+    <string name="gs_gol2">Dries Mertens 60.Min</string>
+    <string name="gs_gol3">Mauro Icardi 90+1.Min</string>
+    <string name="gs_kk">Victor Nelsson 62.Min</string>
+    <string name="sparta_gol1">Angelo Preciado 47.Min</string>
+    <string name="sparta_gol2">Jan Kuchta 65.Min</string>
+    <string name="sparta_kk">Matej Rynes 80.Min</string>
+    <string name="button_names">Watch The Match</string>
+
+</resources>

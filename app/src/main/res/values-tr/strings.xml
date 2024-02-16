@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ApexFootball</string>
+    <string name="mac_baslik">UEFA Avrupa Ligi Play-Off Turu 1.Maç</string>
+    <string name="mac_manset">Aslan Turun İlk Maçını Kazandı!</string>
+    <string name="button_stat">İstatistikler</string>
+    <string name="button_detail">Detay</string>
+    <string name="button_summary">Özet</string>
+    <string name="button_line_ups">Dizilişler</string>
+    <string name="mac_sonucu">Galatasaray 3  –  2 Sparta Prag</string>
+    <string name="gs_gol1">Kerem Demirbay 19.Dk</string>
+    <string name="gs_gol2">Dries Mertens 60.Dk</string>
+    <string name="gs_gol3">Mauro Icardi 90+1.Dk</string>
+    <string name="gs_kk">Victor Nelsson 62.Dk</string>
+    <string name="sparta_gol1">Angelo Preciado 47.Dk</string>
+    <string name="sparta_gol2">Jan Kuchta 65.Dk</string>
+    <string name="sparta_kk">Matej Rynes 80.Dk</string>
+    <string name="button_names">Maçı İzle</string>
+
+</resources>

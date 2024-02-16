@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="anayazi">#D6C7C7</color>
+    <color name="anarenk">#873016</color>
+    <color name="yazi2">#86FDA900</color>
+    <color name="yazi3">#D6C7C7</color>
+</resources>

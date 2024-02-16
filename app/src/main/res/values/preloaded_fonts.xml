@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arimo</item>
+        <item>@font/fjalla_one</item>
+        <item>@font/inter_thin</item>
+        <item>@font/metamorphous</item>
+        <item>@font/pacifico</item>
+    </array>
+</resources>
